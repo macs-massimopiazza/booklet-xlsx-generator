@@ -5,7 +5,7 @@ Modalità di utilizzo:
 
 
 Esempio domanda:
-![alt text](image.png)
+![alt text](docs/image.png)
 
 
 Version: Python 3.13
